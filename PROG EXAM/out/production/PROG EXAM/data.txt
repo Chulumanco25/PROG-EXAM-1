@@ -1,0 +1,72 @@
+DATA LOG
+****************************************
+Customer Name: cHULUMANCO
+Product: Cozy Nights Monarch
+VAT: R 30.0
+COMMISSION: R 10.0
+TOTAL: R 240.0
+****************************************
+DATA LOG
+****************************************
+Customer Name: cHULUMANCO
+Product: Cozy Nights Monarch
+VAT: R 30.0
+COMMISSION: R 10.0
+TOTAL: R 240.0
+****************************************
+DATA LOG
+****************************************
+Customer Name: Chulumanco
+Product: Restonic Barbados
+VAT: R 37.5
+COMMISSION: R 12.5
+TOTAL: R 300.0
+****************************************
+DATA LOG
+****************************************
+Customer Name: Chulumanco
+Product: Restonic Barbados
+VAT: R 37.5
+COMMISSION: R 12.5
+TOTAL: R 300.0
+****************************************
+DATA LOG
+****************************************
+Customer Name: Chulumanco
+Product: Restonic Barbados
+VAT: R 37.5
+COMMISSION: R 12.5
+TOTAL: R 300.0
+****************************************
+DATA LOG
+****************************************
+Customer Name: Chulumanco Sihlali
+Product: Cozy Nights Monarch
+VAT: R 750.0
+COMMISSION: R 250.0
+TOTAL: R 6000.0
+****************************************
+DATA LOG
+****************************************
+Customer Name: Chulumanco Sihlali
+Product: Cozy Nights Monarch
+VAT: R 750.0
+COMMISSION: R 250.0
+TOTAL: R 6000.0
+****************************************
+DATA LOG
+****************************************
+Customer Name: Chulumanco Sihlali
+Product: Cozy Nights Monarch
+VAT: R 750.0
+COMMISSION: R 250.0
+TOTAL: R 6000.0
+****************************************
+DATA LOG
+****************************************
+Customer Name: Chulumanco Sihlali
+Product: Cozy Nights Monarch
+VAT: R 750.0
+COMMISSION: R 250.0
+TOTAL: R 6000.0
+****************************************
